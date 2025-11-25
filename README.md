@@ -8,7 +8,7 @@ Herramienta profesional para la comparación de código y texto, detección de d
 
 ## Descripción General
 
-**DiffMaster Pro** es una aplicación web de una sola página (SPA) diseñada para desarrolladores y profesionales que necesitan comparar versiones de código o texto de manera rápida y segura. A diferencia de otras herramientas que requieren procesamiento en el servidor, esta aplicación ejecuta toda la lógica de comparación localmente en el navegador del usuario, garantizando la privacidad de los datos.
+**DiffMaster** es una aplicación web de una sola página (SPA) diseñada para desarrolladores y profesionales que necesitan comparar versiones de código o texto de manera rápida y segura. A diferencia de otras herramientas que requieren procesamiento en el servidor, esta aplicación ejecuta toda la lógica de comparación localmente en el navegador del usuario, garantizando la privacidad de los datos.
 
 La herramienta ofrece una interfaz moderna y oscura, optimizada para largas sesiones de trabajo, con capacidades avanzadas como la comparación semántica (por palabras o caracteres), ignorado de espacios en blanco y sincronización de desplazamiento.
 
